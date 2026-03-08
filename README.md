@@ -13,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am currently in high school and doing IB, so that i can learn the necessary skills needed for AI/ML. 
+I am also currently learning as much as I can about AI/ML as i can, by reading books and taking online courses to strengthen my skills.
+My goals are to help other people wiht the same goals as me, so I have provided all of the work that i do to level up my skills on this Github.
+My end goal is to work on a top AI startup and make a real difference in this world. In all of my free time, I spend it on learnign the necessary skills for it.
+
+
+
